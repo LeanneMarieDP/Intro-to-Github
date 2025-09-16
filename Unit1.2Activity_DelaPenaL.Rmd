@@ -2,7 +2,7 @@
 title: "My First Markdown File"
 author: "Leanne Marie Dela Peña"
 date: "`r Sys.Date()`"
-GitHub Accnt: https://github.com/LeanneMarieDP/Intro-to-Github
+GitHub Accnt: https://github.com/LeanneMarieDP
 output: pdf_document
 ---
 
